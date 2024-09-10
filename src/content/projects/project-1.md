@@ -1,6 +1,6 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
+title: 'Personal Insurance in Singapore'
+description: Trying to make sense of personal insurance needs for an average person in Singapore.
 publishDate: 'Jan 02 2024'
 seo:
   image:

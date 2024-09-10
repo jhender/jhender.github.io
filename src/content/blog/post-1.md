@@ -2,8 +2,10 @@
 title: Starting an Astro blog
 excerpt: Years after a brief attempt at Hugo, maybe Astro might be the static site generator that gets me going. 
 publishDate: 'Sep 9 2024'
+isFeatured: true
 tags:
-  - Guide
+  - Astro
+  - Blog
 seo:
   image:
     src: '/post-1.jpg'
