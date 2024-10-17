@@ -1,11 +1,11 @@
 ---
 title: 'Personal Insurance in Singapore'
 description: Trying to make sense of personal insurance needs for an average person in Singapore.
-publishDate: 'Jan 02 2024'
+publishDate: 'Oct 17 2024'
 seo:
   image:
     src: '/project-1.jpg'
-    alt: Project preview
+    alt: Project
 ---
 
 ![Project preview](/project-1.jpg)
@@ -70,10 +70,10 @@ So far we try not to overpurchase. Our premiums are fairly up there due to the W
 
 We don't necessarily insure to all the 'recommended' amounts as some things we consider can 'self-insure'. 
 
-Your financial situation might vary.
+Your financial situation might vary. and your household risk level might vary. 
 
 Still considering on
 - Disability Income Insurance (look at mindef or GE)
 - rounding out careshield life supplement
-- ECI for adults
+- ECI for adults or additional CI for adults
 - ECI/CI for kids
