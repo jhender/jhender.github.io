@@ -13,17 +13,18 @@ seo:
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Personal Insurance page is a memory dump of things I have learnt or discovered lately while reading up more on personal insurance. I'm far from an expert or professional, but hopefully with enough simple info to get by.
 
 ## Objectives
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+1. Coverage for a family of 2 adults and 2 young children
+2. Largely separate from investment or savings, as we intend to leave this to other sources (again, not perfect, but acceptable)
 
-## Features
 
-1. **EcoScore and Challenges:**
+## Insurance types we like or have
+(note this section is not particularly sorted by coverage, maybe it would work better as a matrix table)
+
+1. **Whole Life:**
 
 - Users are assigned an EcoScore based on their sustainable activities and choices.
 - Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
