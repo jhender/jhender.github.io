@@ -72,3 +72,55 @@ New bracket is metal and really beautiful, compared to plain plastic old one
 
 ![beautiful speedtest results on Pixel 8. 1764 Mbps](../assets/post5-speedtest.png)
 Pretty awesome that I can get a speedtest result of 1700 Mbps at 6 Ghz 160 width. Wow, technically higher peak speeds than the 1G LAN ports. BUT LAN still trumps on many factors like stability, consistency, lower latency, no congestion on number of devices and neighbours. (My home LAN wiring is also upgradable to 2.5 or 10G if required)
+
+# XGS PON
+
+![](../assets/post5-selfinstall.jpg)
+
+![](../assets/post-5-xgspon.jpg)
+
+The just mail you the package and you do a self-swap, totally doable for me.
+The fiber cable is a little tight and fiddly though, otherwise not a problem.
+
+Biggest issue by far is
+- Their handover from old to new ONT isn't great. I needed to call them to fix the routing. I suspect it's due to the new CGNAT and private IP implemented on the new ones. Total YUCKS.
+- Good part is their technical support line was pretty responsive despite being 10 to 11pm
+- They dropped my static IP for renewals, which was a !@$#@#@ as it means no external routing to me. YIKES. I neeeeeeed it for my Plex if nothing else. Tailscale and Cloudflare tunnels still have chance to work.
+- Had to call again and request they give me back the static IP otherwise I can't survive.
+- If you research, some of the ISPs give a floating IP, which is bearable, but CGNAT totally kills it. Still waiting to see if they are going to bill me, which I think they are. But overall pricing still ok, not any more than old pricing.
+
+# Unifi Controller 9.2.87
+
+It's so beautiful nowadays it's unimagiable. The sheer convenience and integration and data and display. Insane.
+
+![details details details](../assets/post5-ui1.png)
+
+![in graphical form](../assets/post5-ui2.png)
+
+![beautifully reflecting the 2.5G and 10G connections](../assets/post5-ui3.png)
+
+![](../assets/post5-ui4.png)
+
+![lovely download speeds](../assets/post5-ui5.png)
+
+Technically I could subscribe to the 10Gbps plans as well, but I really don't have the NAS, PC, or usb-c adapters to push 10Gbps to devices, nor even 2.5 Gbps to more ports. I don't think right now I want to get a 2.5 or 10G switch yet.
+
+Let's see how it holds up when everyone is back home, and all the devices are re-enabled/re-deployed.
+
+# Headaches on wiring
+
+Because of the shifting of AP1's position to avoid the new cabinets, I had to 'extend' the wiring. Which meant a huge think and headache on how to do so as Cat6 cables aren't easily extended. End of the day I just plugged a new (hand crimped) cable into the other port and jiggled it into the casing and 1gang box.
+
+I had to do a lot of back-and-forth testing of the cable terminations as I need to ensure it is crimped sufficiently well to not just support the full 1Gbps but even up to the 1.5+ Gbps that the new U7 Pro required. A lot of testing. AND the POE has to work as well. This is as much as we need to demand from the cable. 
+
+![](../assets/post5-cable1.jpg)
+
+![](../assets/post5-cable2.jpg)
+
+Not very ideal but I think I managed to come to a compromise that's sufficiently fast and sufficiently tidy, using existing drops to new locations. 
+
+End of the day, seeing incredible speedtest results and great connection speed is amazing. Haven't tested all the previous problematic corners but I think those are low traffic enough to be fine. 
+
+I'd miss having a study table with a convenient LAN port point though. 
+
+All in all, the gear was probably similarly priced to a Wifi 7 mesh system, but with better performance, but with much more difficult installation and flexibility. Saved a ton of $$$ by doing the wiring myself. Still will have most of my server/NAS/TV related stuff hardwired in. Potentially those can be grouped in a higher speed switch if I really need to in the future. Though I think 1 Gbps local should still be sufficient for Bluray high bitrate ATMOS etc.
