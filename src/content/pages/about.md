@@ -3,7 +3,9 @@ title: About
 seo:
   title: About Me
   description: Just a side blog of mine.
+  description: Just a side blog of mine.
   image:
+    src: ''
     src: ''
     alt: A person sitting at a desk in front of a computer
 ---
