@@ -34,7 +34,7 @@ So I just went ahead.
 
 ![Interior](../assets/soundcore_3_PXL_20250708_051959064.jpg)
 
-![Auto detect by Pixel phone](../assets/soundcore_4_Screenshot 2025-07-09 211037.jpg)
+![Auto detect by Pixel phone](../assets/soundcore_4_Screenshot_2025-07-09_211037.jpg)
 
 Fit is ok, they give 5 sizes of fittings.
 The app provides lots of customizations like sound isolation modes, some fancy surround sound mode that is really quite impressive etc.
