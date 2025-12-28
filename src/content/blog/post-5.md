@@ -1,7 +1,7 @@
 ---
 title: Unifi Network v2
 excerpt: The next big upgrade
-publishDate: 'Jul 9 2025'
+publishDate: 'Jul 11 2025'
 isFeatured: false
 tags:
   - tech

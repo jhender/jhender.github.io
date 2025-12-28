@@ -1,7 +1,7 @@
 ---
 title: Review - Soundcore P40i earbuds
 excerpt: A new set of earbuds
-publishDate: 'Jul 9 2025'
+publishDate: 'Jul 10 2025'
 isFeatured: false
 tags:
   - earbuds
@@ -9,9 +9,9 @@ tags:
   - review
 ---
 
-## Soundcore P40i earbuds
+# Soundcore P40i earbuds
 
-# Finally gave up my old ones
+## Finally gave up my old ones
 
 I've had the Pixel Buds A (v1) for a number of years. I really really liked that it had these lovely wingtips that held on securely to the ear and stayed in super securely which allowed me to use it for jogging.
 
@@ -21,7 +21,7 @@ BUT, over the years firstly I damaged the left side such that the sound volume w
 
 Finally couldn't stand it any longer and chucked it into the bin. No more earbuds.
 
-# Happened upon a promo for Soundcore
+## Happened upon a promo for Soundcore
 
 It so happens that Safra was having a SG60 promo, with Best Denki for this particular model Soundcore P40i for S$60.
 Not the best Soundcore model (their Liberty ANC series) or their even cheaper range R40? R50? that I've been using for watching TV.

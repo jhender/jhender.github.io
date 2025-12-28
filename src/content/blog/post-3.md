@@ -8,9 +8,9 @@ tags:
   - Smarthome
 ---
 
-## Home Renovation 2025
+# Home Renovation 2025
 
-# A major change in home plans, including the following highlights
+## A major change in home plans, including the following highlights
 
 - A new partition-ed room, which is a possible studyroom but mostly as a helper room for now
 - One of the bedrooms reclaimed from helper room/storage/studio, to be Kids Bedroom 1
@@ -22,7 +22,7 @@ tags:
 - Possible fixing of mouldy silicone around kitchen cooking area and bathrooms
 - Possible fixing of rusty spots on toilet door frames
 
-# Other frills
+## Other frills
 Internet/Networking
 - Upgrade of home internet from 1 Gbps fiber to 3 Gbps (although I'm getting fairly high 7 Gbps down and 2+ Gbps up speeds)
 - New Unifi Ultra Gateway Fiber 10 Gbps router
